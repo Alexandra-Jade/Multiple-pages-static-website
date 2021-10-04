@@ -21,3 +21,7 @@ p {
   display: block;
   margin: 30px auto;
 }
+
+.page-links {
+  margin: 0 10px;
+}
