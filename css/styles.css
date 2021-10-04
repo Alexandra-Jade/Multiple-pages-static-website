@@ -1,15 +1,23 @@
 body {
-  background-color: blueviolet;
+  text-align: center;
+  background-color: f8e8a6;
 }
 h1 {
   text-align: center;
-  color: white;
+  color: brown;
 }
 
 a {
-  color: white;
+  color: rgb(236, 171, 171);
 }
 
 p {
-  color: white;
+  color: brown;
+}
+
+.croissant-photo {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
 }
